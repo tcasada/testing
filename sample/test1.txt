@@ -1,1 +1,1 @@
-This is a sample file from original commit.
+This is a sample file changed on branch RFC_123456.
